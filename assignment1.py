@@ -13,7 +13,7 @@ violators will be reported and appropriate action will be taken.
 
 Author: Roniel G. Pangan
 Semester: Fall Semester 2024
-Description: Assignment 1
+Description: OPS445 - Assignment 1
 '''
 
 import sys
